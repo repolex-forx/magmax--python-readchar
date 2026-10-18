@@ -1,0 +1,11 @@
+{
+  "org": "magmax",
+  "repo": "python-readchar",
+  "versions": [
+    {
+      "commit": "cba1fa062e44a5c6a3045bb1c68e8a91fa6f746d",
+      "tag": "",
+      "parsed_at": "2026-10-18T04:14:08.055344+00:00"
+    }
+  ]
+}
