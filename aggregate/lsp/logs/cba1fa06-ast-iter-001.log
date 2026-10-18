@@ -1,0 +1,7 @@
+[2026-10-18T04:12:49Z] === AST ITERATION 1 START | repo=magmax/python-readchar sha=cba1fa06 ===
+[2026-10-18T04:12:49Z] [iter=1] PHASE START: ast repo=magmax/python-readchar sha=cba1fa06
+[2026-10-18T04:12:49Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T04:12:54Z] [iter=1] AST chunks built count=1 triples=36328
+[2026-10-18T04:12:54Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/cba1fa062e44a5c6a3045bb1c68e8a91fa6f746d/.complete
+[2026-10-18T04:12:54Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-10-18T04:12:54Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

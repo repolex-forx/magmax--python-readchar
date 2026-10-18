@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/magmax/python-readchar/commit/cba1fa062e44a5c6a3045bb1c68e8a91fa6f746d",
       "git:hexsha": "cba1fa062e44a5c6a3045bb1c68e8a91fa6f746d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/magmax/python-readchar/commit/5b63dca60b99312e94eb0d0e78893e816c05dfaa",
